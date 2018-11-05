@@ -1,0 +1,6 @@
+[submodule "ntt-pod"]
+	path = ntt-pod
+	url = https://github.com/ntt-city/ntt-pod.git
+[submodule "ntt-hub"]
+	path = ntt-hub
+	url = https://github.com/ntt-city/ntt-hub.git
