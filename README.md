@@ -3,8 +3,9 @@ Root repository
 
 ## Sub-module initialization
 ```
-git submodule add https://github.com/ntt-city/ntt-pod.git
+git submodule add https://github.com/ntt-city/ntt-flow.git
 git submodule add https://github.com/ntt-city/ntt-hub.git
+git submodule add https://github.com/ntt-city/ntt-pod.git
 
 git submodule update --init
 ```
