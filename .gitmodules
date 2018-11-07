@@ -4,3 +4,6 @@
 [submodule "ntt-hub"]
 	path = ntt-hub
 	url = https://github.com/ntt-city/ntt-hub.git
+[submodule "ntt-flow"]
+	path = ntt-flow
+	url = https://github.com/ntt-city/ntt-flow.git
