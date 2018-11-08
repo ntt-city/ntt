@@ -7,3 +7,6 @@
 [submodule "ntt-flow"]
 	path = ntt-flow
 	url = https://github.com/ntt-city/ntt-flow.git
+[submodule "ntt-view"]
+	path = ntt-view
+	url = https://github.com/ntt-city/ntt-view.git
