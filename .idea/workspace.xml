@@ -5,11 +5,12 @@
       <change afterPath="$PROJECT_DIR$/ntt-pod/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ntt-pod/src/index.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ntt-pod/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ts-json-schema-generator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ts-json-schema-generator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ntt-flow" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-flow" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ntt-pod" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-pod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ntt-view" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-view" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ntt-view/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-view/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -95,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            <state relative-caret-position="238">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -193,6 +194,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
     <handled-path value="$PROJECT_DIR$/ntt-flow/node_modules" />
     <handled-path value="$PROJECT_DIR$/ntt-view/node_modules" />
   </component>
@@ -202,6 +204,7 @@
       <path value="$PROJECT_DIR$/ntt-hub/package.json" />
       <path value="$PROJECT_DIR$/ntt-pod/package.json" />
       <path value="$PROJECT_DIR$/ntt-view/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
@@ -222,22 +225,6 @@
             <path>
               <item name="ntt" type="b2602c69:ProjectViewProjectNode" />
               <item name="ntt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ntt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ntt" type="462c0819:PsiDirectoryNode" />
-              <item name="ntt-pod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ntt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ntt" type="462c0819:PsiDirectoryNode" />
-              <item name="ntt-view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ntt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ntt" type="462c0819:PsiDirectoryNode" />
-              <item name="ntt-view" type="462c0819:PsiDirectoryNode" />
-              <item name="typings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -284,16 +271,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541606111086</updated>
-      <workItem from="1541606112712" duration="14277000" />
+      <workItem from="1541606112712" duration="14560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14277000" />
+    <option name="totallyTimeSpent" value="14560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2522" y="34" width="1206" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33390412" />
@@ -588,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        <state relative-caret-position="238">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
         </state>
       </provider>
     </entry>

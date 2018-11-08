@@ -1,0 +1,25 @@
+{
+  "name": "ntt",
+  "version": "0.0.1",
+  "description": "Schemas and other static assets",
+  "main": "index.js",
+  "dependencies": {
+    "tslib": "^1.9.3"
+  },
+  "devDependencies": {
+    "ts-json-schema-generator": "^0.36.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntt-city/ntt.git"
+  },
+  "author": "Lucas Martinez Oromi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ntt-city/ntt/issues"
+  },
+  "homepage": "https://github.com/ntt-city/ntt#readme"
+}
