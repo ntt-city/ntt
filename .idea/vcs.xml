@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ntt-flow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ntt-hub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ntt-pod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ntt-view" vcs="Git" />
+  </component>
+</project>
