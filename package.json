@@ -10,7 +10,12 @@
     "ts-json-schema-generator": "^0.36.0"
   },
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "flow-link-typings": "./ntt-flow/npm link ../typings",
+    "hub-link-typings": "./ntt-hub/npm link ../typings",
+    "link-typings": "npm run flow-link-typings & npm run hub-link-typings & npm run pod-link-typings & npm run view-link-typings",
+    "pod-link-typings": "./ntt-pod/snpm link ../typings",
+    "view-link-typings": "./ntt-view/npm link ../typings"
   },
   "repository": {
     "type": "git",
