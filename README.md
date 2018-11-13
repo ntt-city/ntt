@@ -5,7 +5,7 @@ nnt is the root repository to something very cool.
 ![clean code](https://blog.cleancoder.com/assets/clean_code_72_color.png)
 
 # [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-![architecture](https://blog.cleancoder.com/assets/clean_code_72_color.png)
+![architecture](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)
 
 ## [Functional Programming and Immutability](https://blog.cleancoder.com/uncle-bob/2017/07/11/PragmaticFunctionalProgramming.html)
 
@@ -50,6 +50,11 @@ TypeScript isn’t.
 [what, ...how]
 
 ['interface', 'Gateway', ['get-internal-episodes'], ['get-public-episodes']]
+
+# Testing
+
+Dijkstra said it long, long ago. "Testing shows the presence, not the absence of bugs." To paraphrase: Experiments can only disprove, never prove, a theory.” And yet every day we are willing to bet our lives on those unproven theories of Newton, Einstein, Maxwell, and Boltzmann. If experiments are good enough for science, why aren’t unit tests good enough for software?
+
 
 # Using this module
 
