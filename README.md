@@ -16,20 +16,42 @@ __Homoiconic__: the code is data that the program can manipulate.
 
 A function in Java is like f(x), to turn this into a function in Lisp or Clojure, you simply move the first parenthesis to the left: (f x).
 
-this is a Clojure code:
-```
-(deftype Gateway-imp [db]
-  Gateway
-  (get-internal-episodes [this]
-    (internal-episodes db))
+this is a Clojure interface definition:
 
-  (get-public-episodes [this]
-    (public-episodes db)))
+```
+(defprotocol Gateway
+  (get-internal-episodes [this])
+  (get-public-episodes [this]))
+```
+
+in TypeScript it would look like this:
+
+```
+public interface Gateway {
+	getInternalEpisodes: () => Array<Episode>;
+	getPublicEpisodes: () => Array<Episode>;
+}
 ```
 
 The following code: (1 2 3) represents a list of three integers. If the first element of a list happens to be a function, as in: (f 2 3) then it becomes a function call. Thus, all function calls in Clojure are lists; and lists can be directly manipulated by the code. Thus, a program can construct and execute other programs.
 
 Clojure targets Java and [ClojureScript](https://clojure.org/about/clojurescript) targets JavaScript.
+
+### ClojureScript vs TypeScript
+
+TypeScript is also one of the few technologies created at Microsoft and then adopted by Google (for Angular), giving it unified endorsement and respect and securing it’s long term place in client-side dev.
+TypeScript feels like a natural evolution of JavaScript, it’s not just another client-side technology that will be gone in two years.
+ClojureScript has a significant following and more so than the average fleeting client-side new tech. Yes it has endorsement by Google, etc.. but it’s a niche.
+As soon as the masses discover the niche limitations, it will be too late and hundreds of thousands of lines of code written with it will be out there to be maintained.
+TypeScript isn’t.
+
+### Clojure Notation in Typescript.
+
+[what, ...how]
+
+['interface', 'Gateway', ['get-internal-episodes'], ['get-public-episodes']]
+
+# Using this module
 
 ## Sub-module initialization
 ```

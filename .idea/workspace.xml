@@ -5,9 +5,6 @@
       <change afterPath="$PROJECT_DIR$/ntt-pod/src/User.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ntt-view/src/view/index.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ntt-view/src/xtype.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typings/global.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typings/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ntt-flow" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-flow" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ntt-flow/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-flow/package.json" afterDir="false" />
@@ -16,7 +13,6 @@
       <change beforePath="$PROJECT_DIR$/ntt-flow/src/typings/ntt.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-flow/src/ntt.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ntt-flow/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-flow/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ntt-flow/typings/global.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ntt-hub" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-hub" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ntt-pod" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-pod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ntt-pod/src/pod/IStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-pod/src/pod/IStore.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ntt-pod/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-pod/tsconfig.json" afterDir="false" />
@@ -27,7 +23,6 @@
       <change beforePath="$PROJECT_DIR$/ntt-view/src/View.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-view/src/view/View.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ntt-view/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-view/src/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ntt-view/src/state/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ntt-view/src/state/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -83,7 +78,7 @@
           <entry key="gitignore" value="47" />
           <entry key="js" value="18" />
           <entry key="json" value="457" />
-          <entry key="md" value="756" />
+          <entry key="md" value="1029" />
           <entry key="ts" value="13764" />
         </counts>
       </usages-collector>
@@ -91,7 +86,7 @@
         <counts>
           <entry key="JSON" value="378" />
           <entry key="JavaScript" value="18" />
-          <entry key="PLAIN_TEXT" value="803" />
+          <entry key="PLAIN_TEXT" value="1076" />
           <entry key="TypeScript" value="13764" />
           <entry key="tsconfig" value="79" />
         </counts>
@@ -164,8 +159,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="83" lean-forward="true" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
+            <state relative-caret-position="562">
+              <caret line="51" column="49" lean-forward="true" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -372,12 +367,12 @@
       <workItem from="1541799848352" duration="40829000" />
       <workItem from="1542036606370" duration="630000" />
       <workItem from="1542037287420" duration="956000" />
-      <workItem from="1542041191463" duration="12585000" />
+      <workItem from="1542041191463" duration="13660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75083000" />
+    <option name="totallyTimeSpent" value="76158000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2146" y="129" width="1448" height="908" extended-state="0" />
@@ -739,8 +734,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="83" lean-forward="true" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
+        <state relative-caret-position="562">
+          <caret line="51" column="49" lean-forward="true" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
         </state>
       </provider>
     </entry>
