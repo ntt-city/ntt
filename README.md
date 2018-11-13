@@ -1,6 +1,6 @@
 # ntt
 
-nnt is the root repository to something very cool.
+ntt is the root repository to something very cool.
 
 ![clean code](https://blog.cleancoder.com/assets/clean_code_72_color.png)
 
