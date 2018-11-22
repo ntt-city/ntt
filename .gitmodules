@@ -10,3 +10,6 @@
 [submodule "ntt-view"]
 	path = ntt-view
 	url = https://github.com/ntt-city/ntt-view.git
+[submodule "ntt-city"]
+	path = ntt-city
+	url = https://github.com/ntt-city/ntt-city.git
