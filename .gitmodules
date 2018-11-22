@@ -19,3 +19,6 @@
 [submodule "ntt-city"]
 	path = ntt-city
 	url = https://github.com/ntt-city/ntt-city.git
+[submodule "ntt-dir"]
+	path = ntt-dir
+	url = https://github.com/ntt-city/ntt-dir.git
