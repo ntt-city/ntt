@@ -1,0 +1,23 @@
+{
+    "VTTK": {
+        "descr": "Shipment header"
+    },
+    "VTTP": {
+        "descr": "Shipment item"
+    },
+    "VTTS": {
+        "descr": "Stage in transport"
+    },
+    "VTSP": {
+        "descr": "Stage in transport per shipment item"
+    },
+    "VTPA": {
+        "descr": "Shipment partners"
+    },
+    "VEKP": {
+        "descr": "Handling Unit – Header Table"
+    },
+    "VEPO": {
+        "descr": "Packing: Handling Unit Item – Contents"
+    }
+}

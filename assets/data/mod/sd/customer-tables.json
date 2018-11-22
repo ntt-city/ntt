@@ -1,0 +1,59 @@
+{
+    "KNA1": {
+        "descr": "Customer Master: General Data"
+    },
+    "KNB1": {
+        "descr": "Customer Master: Company Code Data"
+    },
+    "KNB4": {
+        "descr": "Customer Payment History"
+    },
+    "KNB5": {
+        "descr": "Customer Master: Dunning data"
+    },
+    "KNBK": {
+        "descr": "Customer Master: Bank Details"
+    },
+    "KNBW": {
+        "descr": "Customer Master: Wwithholding tax types"
+    },
+    "KNKA": {
+        "descr": "Customer Master: Credit Mgmt."
+    },
+    "KNKK": {
+        "descr": "Customer Master: Credit Control Area Data – credit limits"
+    },
+    "KNVA": {
+        "descr": "Customer Master: Loading/Unloading Points"
+    },
+    "KNVD": {
+        "descr": "Customer Master: Record sales request form/documents"
+    },
+    "KNVH": {
+        "descr": "Customer Hierarchies"
+    },
+    "KNVI": {
+        "descr": "Customer Master: Tax Indicator"
+    },
+    "KNVK": {
+        "descr": "Customer Master: Contact Partner"
+    },
+    "KNVL": {
+        "descr": "Customer Master: Licenses"
+    },
+    "KNVP": {
+        "descr": "Customer Master: Partner Functions"
+    },
+    "KNVS": {
+        "descr": "Customer Master: Shipping Data"
+    },
+    "KNVT": {
+        "descr": "Customer Master: Record Texts for Sales"
+    },
+    "KNVV": {
+        "descr": "Customer Master: Sales Data"
+    },
+    "KLPA": {
+        "descr": "Customer/Vendor Link"
+    }
+}

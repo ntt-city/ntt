@@ -1,0 +1,47 @@
+{
+    "NAST": {
+        "descr": "Document Output- Message Status"
+    },
+    "STXH": {
+        "descr": "Document Texts Table Header"
+    },
+    "STXL": {
+        "descr": "Document Texts Table Line"
+    },
+    "JSTO": {
+        "descr": "PP status"
+    },
+    "JEST": {
+        "descr": "Status Table"
+    },
+    "SADR": {
+        "descr": "Address Table"
+    },
+    "VBUK": {
+        "descr": "Header Status and Administrative Data"
+    },
+    "VBAK": {
+        "descr": "Sales Document – Header Data"
+    },
+    "VBKD": {
+        "descr": "Sales Document – Business Data"
+    },
+    "VBUP": {
+        "descr": "Item Status"
+    },
+    "VBAP": {
+        "descr": "Sales Document – Item Data"
+    },
+    "VBPA": {
+        "descr": "Partners"
+    },
+    "VBFA": {
+        "descr": "Document Flow"
+    },
+    "VBEP": {
+        "descr": "Sales Document Schedule Line"
+    },
+    "VBBE": {
+        "descr": "Sales Requirements: Individual Records"
+    }
+}
