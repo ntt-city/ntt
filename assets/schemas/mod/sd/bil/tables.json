@@ -1,0 +1,8 @@
+{
+    "VBRK": {
+        "descr": "Billing Document Header"
+    },
+    "VBRP": {
+        "descr": "Billing Document Item"
+    }
+}

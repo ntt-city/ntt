@@ -1,0 +1,8 @@
+{
+    "LIPS": {
+        "descr": "Delivery Document item data includes referencing PO"
+    },
+    "LIKP": {
+        "descr": "Delivery Document Header data"
+    }
+}

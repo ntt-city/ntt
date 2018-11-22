@@ -1,0 +1,23 @@
+{
+    "KOMK": {
+        "descr": "Pricing Communications: Header (Structure)"
+    },
+    "KOMP": {
+        "descr": "Pricing Communication: Item (Structure)"
+    },
+    "KONV": {
+        "descr": "Conditions: Transaction Data"
+    },
+    "KONP": {
+        "descr": "Conditions: Item"
+    },
+    "KONH": {
+        "descr": "Conditions: Header"
+    },
+    "KOND": {
+        "descr": "SAP Contracts Table in SAP SD"
+    },
+    "VEDA": {
+        "descr": "Contract Data"
+    }
+}
