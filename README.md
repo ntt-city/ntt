@@ -61,6 +61,7 @@ Dijkstra said it long, long ago. "Testing shows the presence, not the absence of
 ## Sub-module initialization
 ```
 git submodule add https://github.com/ntt-city/ntt-city.git
+git submodule add https://github.com/ntt-city/ntt-dir.git
 git submodule add https://github.com/ntt-city/ntt-flow.git
 git submodule add https://github.com/ntt-city/ntt-hub.git
 git submodule add https://github.com/ntt-city/ntt-pod.git
